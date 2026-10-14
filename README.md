@@ -6,6 +6,7 @@
 |---|---|
 | [`docs/01-research.md`](docs/01-research.md) | 고객이 돈을 내는 기능, BC주 법·보안 가이드라인, 필요한 도구 정리 |
 | [`docs/02-launch-checklist.md`](docs/02-launch-checklist.md) | 실제 고객 사이트를 공개하기 전 확인 목록 |
+| [`docs/03-computer-setup.md`](docs/03-computer-setup.md) | 내 컴퓨터(Mac/Windows)에 개발 도구 설치하는 방법 |
 | [`demo-restaurant/`](demo-restaurant/) | 데모 1번: 가상의 한식당 "소담 식당" 웹사이트 (한/영, AI 안내원, 예약 요청) |
 
 ## 데모 실행
