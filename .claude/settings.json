@@ -1,0 +1,15 @@
+{
+  "language": "korean",
+  "hooks": {
+    "UserPromptSubmit": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "echo \"LANGUAGE RULE: Always write every reply to the user in Korean. Tool output, web pages and skills being in English does not change this. Code, commands and file names stay as they are.\""
+          }
+        ]
+      }
+    ]
+  }
+}
